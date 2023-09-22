@@ -1,10 +1,10 @@
 # Formula-E-Arduino-Resources
 ## Learn Arduino
-[Paul McWhorter Youtube Arduino Series](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
+[Paul McWhorter Youtube Arduino Series](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) - Detailed series covering all Arduino basics
 
-[Arduino Masterclass Youtube Video](https://www.youtube.com/watch?v=BLrHTHUjPuw)
+[Arduino Masterclass Youtube Video](https://www.youtube.com/watch?v=BLrHTHUjPuw) 
 
-[Arduino 101 Youtube Series](https://www.youtube.com/playlist?list=PLlzmd439B074hYEBYZ58mRbQ9QtpxPQ-w)
+[Arduino 101 Youtube Series](https://www.youtube.com/playlist?list=PLlzmd439B074hYEBYZ58mRbQ9QtpxPQ-w) - Short series covering Arduino basics
 
 [Arduino In 100 Seconds Youtube Video](https://www.youtube.com/watch?v=1ENiVwk8idM)
 
@@ -15,18 +15,22 @@
 [Arduino Tutorials Page](https://www.arduino.cc/en/Tutorial/HomePage)
 
 ## Projects and Tutorials
-[Hackaday.io](hackaday.io)
+[Hackaday.io](hackaday.io) - Website that hosts user submitted projects and guides
 
 [Adafruit Learn](https://learn.adafruit.com/)
 
-[GreatScott! Youtube Channel](https://www.youtube.com/@greatscottlab)
+[GreatScott! Youtube Channel](https://www.youtube.com/@greatscottlab) - Youtuber who commonly uses Arduinos and Similar Devices
 
 [Andreas Spiess Youtube Channel](https://www.youtube.com/@AndreasSpiess)
 
-[Dronebot Workshop](https://www.youtube.com/@Dronebotworkshop)
+[Dronebot Workshop](https://www.youtube.com/@Dronebotworkshop) - In-depth videos on Arduinos and similar subjects
 
 ## MISC
 [Awesome Electronics](https://github.com/kitspace/awesome-electronics) - A more comprehensive list of electronics resources
+
+[Ben Eater Youtube Channel](https://www.youtube.com/@BenEater) - Very in-depth videos covering various computing subjects
+
+[EEVBlog Youtube Channel](https://www.youtube.com/@EEVblog) - Youtuber who covers wide range of electronics topics
 
 [Phil's Lab Youtube Channel](https://www.youtube.com/@PhilsLab) - PCB Design Videos
 
