@@ -32,6 +32,8 @@
 
 [EEVBlog Youtube Channel](https://www.youtube.com/@EEVblog) - Youtuber who covers wide range of electronics topics
 
+[ElectroBOOM Youtube Channel](https://www.youtube.com/@ElectroBOOM) - Funny electronics youtuber
+
 [Phil's Lab Youtube Channel](https://www.youtube.com/@PhilsLab) - PCB Design Videos
 
 [Adafruit](https://www.adafruit.com/) - Electronics/maker retailer
