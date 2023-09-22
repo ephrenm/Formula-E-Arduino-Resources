@@ -37,3 +37,18 @@
 [Adafruit](https://www.adafruit.com/) - Electronics/maker retailer
 
 [Sparkfun](https://www.sparkfun.com/) - Electronics/maker retailer
+
+## Books
+Make: Getting Started with Arduino by Massimo Banzi and Michael Shiloh
+
+Practical Electronics for Inventers by Paul Scherz and Simon Monk
+
+The Art of Electronics by Paul Horowitz and Winfield Hill
+
+A Manga Guide to Microprocessors by Shibuya, Tonagi and Sawa - A quirky way to cover a tedious topic
+
+The C Programming Language by Brian Kernighan - The classic way to cover C
+
+Making Embedded Systems by Elicia White
+
+
