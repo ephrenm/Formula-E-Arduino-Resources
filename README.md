@@ -53,4 +53,6 @@ The C Programming Language by Brian Kernighan - The classic way to cover C
 
 Making Embedded Systems by Elicia White
 
+## Kits
 
+[Elegoo Uno R3 Complete Starter Kit](https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/ref=asc_df_B01CZTLHGE/?tag=hyprod-20&linkCode=df0&hvadid=241907595991&hvpos=&hvnetw=g&hvrand=14356894942146098671&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1016367&hvtargid=pla-464156272733&psc=1) - Starter Kit containing Arduino Uno R3 as well as many modules for expirimenting and prototyping
